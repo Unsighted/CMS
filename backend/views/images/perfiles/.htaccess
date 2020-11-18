@@ -1,0 +1,2 @@
+﻿#Desactivar el interprete PHP en un directorio utilizando .htaccess.
+php_flag engine off
